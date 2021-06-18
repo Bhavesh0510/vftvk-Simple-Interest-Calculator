@@ -5,5 +5,6 @@ h1{color:green;font-family:verdana}
     color:black;
     width:400px;
     border-radius:25px;
+    padding: 20px;
     align:center;
 }
